@@ -3,10 +3,11 @@
 
 FEATURES:
 Up to 8 players.
+Using MAC emojis to visualize cards. 
 Hit or pass.
-Blackjack check.
-Bust check.
-Split feature.
+Automatic Blackjack check.
+Automatic Bust check.
+Split hand feature.
 Automated dealer.
 Shows win or loss for all hands including split hands. 
 
